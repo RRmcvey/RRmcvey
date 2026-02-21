@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RRmcvey
 - 👀 I’m interested in photography, hiking, reading, art, & technology>
 - 🌱 I’m currently learning everyday.
-- 💞️ I’m am working on a rust communications program in rust, peer to peer and am a co-founder looking forwarding to making it available as an alternative to Discord.
+- 💞️ I’m am working on a rust communications program in rust,  peer to peer and am a co-founder other is Chastabor. An alternative to Discord.
 - 📫 How to reach me ...
 - 😄 Pronouns: ... Human
 - ⚡ Fun fact: ... an Engineer
